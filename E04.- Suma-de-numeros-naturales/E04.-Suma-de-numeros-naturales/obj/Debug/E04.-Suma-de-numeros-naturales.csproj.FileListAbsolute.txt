@@ -1,0 +1,7 @@
+C:\Users\cmrcm\source\repos\E04.-Suma-de-numeros-naturales\E04.-Suma-de-numeros-naturales\bin\Debug\E04.-Suma-de-numeros-naturales.exe.config
+C:\Users\cmrcm\source\repos\E04.-Suma-de-numeros-naturales\E04.-Suma-de-numeros-naturales\bin\Debug\E04.-Suma-de-numeros-naturales.exe
+C:\Users\cmrcm\source\repos\E04.-Suma-de-numeros-naturales\E04.-Suma-de-numeros-naturales\bin\Debug\E04.-Suma-de-numeros-naturales.pdb
+C:\Users\cmrcm\source\repos\E04.-Suma-de-numeros-naturales\E04.-Suma-de-numeros-naturales\obj\Debug\E04.-Suma-de-numeros-naturales.csprojResolveAssemblyReference.cache
+C:\Users\cmrcm\source\repos\E04.-Suma-de-numeros-naturales\E04.-Suma-de-numeros-naturales\obj\Debug\E04.-Suma-de-numeros-naturales.csproj.CoreCompileInputs.cache
+C:\Users\cmrcm\source\repos\E04.-Suma-de-numeros-naturales\E04.-Suma-de-numeros-naturales\obj\Debug\E04.-Suma-de-numeros-naturales.exe
+C:\Users\cmrcm\source\repos\E04.-Suma-de-numeros-naturales\E04.-Suma-de-numeros-naturales\obj\Debug\E04.-Suma-de-numeros-naturales.pdb
