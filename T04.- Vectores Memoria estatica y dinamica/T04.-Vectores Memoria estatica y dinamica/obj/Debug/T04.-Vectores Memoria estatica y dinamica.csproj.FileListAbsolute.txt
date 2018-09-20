@@ -1,0 +1,7 @@
+C:\Users\cmrcm\source\repos\T04.-Vectores Memoria estatica y dinamica\T04.-Vectores Memoria estatica y dinamica\bin\Debug\T04.-Vectores Memoria estatica y dinamica.exe.config
+C:\Users\cmrcm\source\repos\T04.-Vectores Memoria estatica y dinamica\T04.-Vectores Memoria estatica y dinamica\bin\Debug\T04.-Vectores Memoria estatica y dinamica.exe
+C:\Users\cmrcm\source\repos\T04.-Vectores Memoria estatica y dinamica\T04.-Vectores Memoria estatica y dinamica\bin\Debug\T04.-Vectores Memoria estatica y dinamica.pdb
+C:\Users\cmrcm\source\repos\T04.-Vectores Memoria estatica y dinamica\T04.-Vectores Memoria estatica y dinamica\obj\Debug\T04.-Vectores Memoria estatica y dinamica.csprojResolveAssemblyReference.cache
+C:\Users\cmrcm\source\repos\T04.-Vectores Memoria estatica y dinamica\T04.-Vectores Memoria estatica y dinamica\obj\Debug\T04.-Vectores Memoria estatica y dinamica.csproj.CoreCompileInputs.cache
+C:\Users\cmrcm\source\repos\T04.-Vectores Memoria estatica y dinamica\T04.-Vectores Memoria estatica y dinamica\obj\Debug\T04.-Vectores Memoria estatica y dinamica.exe
+C:\Users\cmrcm\source\repos\T04.-Vectores Memoria estatica y dinamica\T04.-Vectores Memoria estatica y dinamica\obj\Debug\T04.-Vectores Memoria estatica y dinamica.pdb
