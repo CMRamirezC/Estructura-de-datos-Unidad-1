@@ -1,0 +1,7 @@
+C:\Users\cmrcm\source\repos\T05.- Calculo de tiempo de ejecicion\T05.- Calculo de tiempo de ejecicion\bin\Debug\T05.- Calculo de tiempo de ejecicion.exe.config
+C:\Users\cmrcm\source\repos\T05.- Calculo de tiempo de ejecicion\T05.- Calculo de tiempo de ejecicion\bin\Debug\T05.- Calculo de tiempo de ejecicion.exe
+C:\Users\cmrcm\source\repos\T05.- Calculo de tiempo de ejecicion\T05.- Calculo de tiempo de ejecicion\bin\Debug\T05.- Calculo de tiempo de ejecicion.pdb
+C:\Users\cmrcm\source\repos\T05.- Calculo de tiempo de ejecicion\T05.- Calculo de tiempo de ejecicion\obj\Debug\T05.- Calculo de tiempo de ejecicion.csprojResolveAssemblyReference.cache
+C:\Users\cmrcm\source\repos\T05.- Calculo de tiempo de ejecicion\T05.- Calculo de tiempo de ejecicion\obj\Debug\T05.- Calculo de tiempo de ejecicion.csproj.CoreCompileInputs.cache
+C:\Users\cmrcm\source\repos\T05.- Calculo de tiempo de ejecicion\T05.- Calculo de tiempo de ejecicion\obj\Debug\T05.- Calculo de tiempo de ejecicion.exe
+C:\Users\cmrcm\source\repos\T05.- Calculo de tiempo de ejecicion\T05.- Calculo de tiempo de ejecicion\obj\Debug\T05.- Calculo de tiempo de ejecicion.pdb
