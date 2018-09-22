@@ -1,0 +1,7 @@
+c:\users\cesar\source\repos\E03-Vectores\E03-Vectores\bin\Debug\E03-Vectores.exe.config
+c:\users\cesar\source\repos\E03-Vectores\E03-Vectores\bin\Debug\E03-Vectores.exe
+c:\users\cesar\source\repos\E03-Vectores\E03-Vectores\bin\Debug\E03-Vectores.pdb
+c:\users\cesar\source\repos\E03-Vectores\E03-Vectores\obj\Debug\E03-Vectores.csprojAssemblyReference.cache
+c:\users\cesar\source\repos\E03-Vectores\E03-Vectores\obj\Debug\E03-Vectores.csproj.CoreCompileInputs.cache
+c:\users\cesar\source\repos\E03-Vectores\E03-Vectores\obj\Debug\E03-Vectores.exe
+c:\users\cesar\source\repos\E03-Vectores\E03-Vectores\obj\Debug\E03-Vectores.pdb
